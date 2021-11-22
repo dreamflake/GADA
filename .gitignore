@@ -1,0 +1,16 @@
+LFW_500_DATA.pth
+CPLFW_500_DATA.pth
+util/__pycache__/
+modified_art/__pycache__/
+lpips/__pycache__/
+backbone/__pycache__/
+checkpoint/ms1m-ir50/backbone_ir50_ms1m_epoch120.pth
+checkpoint/CurricularFace_Backbone.pth
+attacks/__pycache__/
+_3DDFA_V2/utils/__pycache__/
+_facenet_pytorch/__pycache__/
+_facenet_pytorch/utils/__pycache__/
+_3DDFA_V2/Sim3DR/__pycache__/
+_3DDFA_V2/models/__pycache__/
+__pycache__/
+.idea/
